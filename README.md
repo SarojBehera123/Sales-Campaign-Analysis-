@@ -1,7 +1,7 @@
 # Sales-Campaign-Analysis-
 Sales Campaign  Analysis 
 
-# Power BI Project: [Project Name]
+# Power BI Project: ales-Campaign-Aalysis-
 
 ## Overview
 This repository contains the Power BI report and related assets for the **[Project Name]**. The report provides insights into [briefly describe the purpose, e.g., "sales performance," "customer behavior," or "financial trends"].
@@ -27,9 +27,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 Open the .pbix file in Power BI Desktop.
 Ensure you have access to the data sources listed in the Data Sources section.
 Data Sources
-[Data Source 1]: [e.g., "SQL Server, AdventureWorks database"]
-[Data Source 2]: [e.g., "Excel spreadsheet"]
-[Data Source 3]: [e.g., "Public API"]
+Csv.type
 Screenshots
 Dashboard Name	Preview
 Dashboard 1	
@@ -40,8 +38,10 @@ Hover over visualizations for additional insights.
 Custom Theme:
 To use the custom theme, import the theme.json file in Power BI Desktop by navigating to View > Themes > Browse for Themes.
 Key Insights
-[Insight 1]: [e.g., "Sales in Region A increased by 20% compared to the previous quarter."]
-[Insight 2]: [e.g., "Top-performing product categories are electronics and furniture."]
+Insight 1 : Sales in Region A increased by 20% compared to the previous quarter.
+Insight 2: Top-performing States
+Insight 3 : Indentyfy top 5 location
+Insight 4 : Gender Analysis - males are 20% extra sales per month
 Dependencies
 Power BI Desktop (latest version)
 [Optional tools, e.g., DAX Studio, Tabular Editor]
